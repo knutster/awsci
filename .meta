@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "paas": "git@github.com:smartmachine/awsci-paas.git",
+    "api": "git@github.com:smartmachine/awsci-api.git",
+    "ui": "git@github.com:smartmachine/awsci-ui.git"
+  }
+}
